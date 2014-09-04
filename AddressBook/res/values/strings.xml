@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Address Book</string>
+    <string name="hello_world">Phone Book Application!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstNameTxt">First Name</string>
+    <string name="lastNameLbl">Last Name</string>
+    <string name="emailLbl">Email</string>
+    <string name="phonenumberLb">Cell Number</string>
+    <string name="addressTxt">Home Address</string>
+    <string name="searchLbl">Search</string>
+    <string name="btnSave">Save</string>
+    <string name="btnSearh">Search</string>
+    <string name="btnViewContacts">Contacts</string>
+    <string name="btnAddContact">Add</string>
+    <string name="btnTextBack">Back</string>
+    
+    <string name="title_activity_view_records">AddRecords</string>
+    <string name="title_activity_add_contact">AddContact</string>
+
+</resources>
